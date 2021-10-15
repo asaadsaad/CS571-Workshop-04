@@ -5,4 +5,5 @@ Update the source code of Workshop 03 (Github Notes App) as follows:
   * The first fetch response (search by Github username)
   * The second fetch response (look up the user repos)
 * The persisted data should be valid for 1 month only.
+* Notes should also be persisted within the global state. 
 * Copy the new source code into this repo and push your solution before the deadline, Saturday 9 AM CST.
