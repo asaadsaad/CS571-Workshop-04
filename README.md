@@ -5,3 +5,4 @@ Update the source code of Workshop 03 (Github Notes App) as follows:
   * The first fetch response (search by Githun username)
   * The second fetch response (look up the user repos)
 * The persisted data should be valid for 1 month only.
+* The deadline to submit this workshop is Saturday 10 AM CST.
